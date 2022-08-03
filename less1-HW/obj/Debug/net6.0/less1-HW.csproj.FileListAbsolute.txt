@@ -1,0 +1,15 @@
+G:\py\C\less1-HW\bin\Debug\net6.0\less1-HW.exe
+G:\py\C\less1-HW\bin\Debug\net6.0\less1-HW.deps.json
+G:\py\C\less1-HW\bin\Debug\net6.0\less1-HW.runtimeconfig.json
+G:\py\C\less1-HW\bin\Debug\net6.0\less1-HW.dll
+G:\py\C\less1-HW\bin\Debug\net6.0\less1-HW.pdb
+G:\py\C\less1-HW\obj\Debug\net6.0\less1-HW.csproj.AssemblyReference.cache
+G:\py\C\less1-HW\obj\Debug\net6.0\less1-HW.GeneratedMSBuildEditorConfig.editorconfig
+G:\py\C\less1-HW\obj\Debug\net6.0\less1-HW.AssemblyInfoInputs.cache
+G:\py\C\less1-HW\obj\Debug\net6.0\less1-HW.AssemblyInfo.cs
+G:\py\C\less1-HW\obj\Debug\net6.0\less1-HW.csproj.CoreCompileInputs.cache
+G:\py\C\less1-HW\obj\Debug\net6.0\less1-HW.dll
+G:\py\C\less1-HW\obj\Debug\net6.0\refint\less1-HW.dll
+G:\py\C\less1-HW\obj\Debug\net6.0\less1-HW.pdb
+G:\py\C\less1-HW\obj\Debug\net6.0\less1-HW.genruntimeconfig.cache
+G:\py\C\less1-HW\obj\Debug\net6.0\ref\less1-HW.dll
