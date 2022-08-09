@@ -14,22 +14,22 @@ if (num1 > num2)
     {
         if (num1 > num3)
             {
-                Console.Write("Число "+ num1 + " больше числа остальных");
+                Console.Write($"Число {num1} больше числа остальных");
             }
         else
             {
-                Console.Write("Число "+ num3 + " больше числа остальных");
+                Console.Write($"Число {num3} больше числа остальных");
             }
     }
 else
 {
         if (num2 > num3)
             {
-                Console.Write("Число "+ num2 + " больше числа остальных");
+                Console.Write($"Число {num2} больше числа остальных");
             }
         else
             {
-                Console.Write("Число "+ num3 + " больше числа остальных");
+                Console.Write($"Число {num3} больше числа остальных");
             }
     
 }
