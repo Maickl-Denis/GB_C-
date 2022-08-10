@@ -3,8 +3,8 @@
 // 78 -> третьей цифры нет
 // 32679 -> 6
 
-// int num1 = new Random().Next(1,10000);
-int num1 = 998;
+int num1 = new Random().Next(1,10000);
+// int num1 = 998;
 Console.WriteLine($"На вход пришло число: {num1}");
 
 if (num1 < 100)
