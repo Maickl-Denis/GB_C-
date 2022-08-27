@@ -31,6 +31,7 @@ void chetNum(int[] arr)
 }
 
 Console.Clear();
+
 Console.WriteLine("Введите количество элементов массива");
 int num = Convert.ToInt32(Console.ReadLine());
 

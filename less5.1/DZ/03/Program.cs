@@ -5,8 +5,6 @@ double[] CreateRandomArray(int N)
 {
     Random random = new Random();
     double[] RandomArray = new double[N];
-    double max = 0;
-    double min = 0;
     for (int i = 0; i < N; i++)
     {
         RandomArray[i] = random.NextDouble() * 100;

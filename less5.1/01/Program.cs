@@ -22,6 +22,7 @@ int[] CreateArray()
     }
     return RandomArray;
 }
+
 void ShowArray(int[] array)
 {
     for (int i = 0; i < array.Length; i++)
@@ -47,7 +48,7 @@ Console.WriteLine("Введите последнее число генериру
 int max = Convert.ToInt32(Console.ReadLine());
 
 int[] myRandomArray = CreateRandomArray(num, min, max);
-ShowArray2(myRandomArray);
+ShowArray(myRandomArray);
 Console.WriteLine("----------------");
 // int[] myArray = CreateArray();
 // ShowArray(myArray);
