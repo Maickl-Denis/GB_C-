@@ -35,10 +35,9 @@ void PrintArray(int[,,] inArray)
         {
             for (int y = 0; y < inArray.GetLength(2); y++)
             {
-            Console.Write($"{inArray[i, j, y]} ({i}, {j}, {y}) ");
+            Console.Write($"{inArray[i, j, y]} ({i}, {j}, {y})    ");
             }
+            Console.WriteLine();
         }
-        Console.WriteLine();
     }
-    Console.WriteLine();
 }

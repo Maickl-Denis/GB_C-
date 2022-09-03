@@ -22,7 +22,7 @@ Console.Write("Введите индекс искомого элемента: ")
 int coloms = int.Parse(Console.ReadLine());
 
 
-if (array.GetLength(0)>=rows && array.GetLength(1)>=coloms)
+if (array.GetLength(0)>rows && array.GetLength(1)>coloms)
 {
     Console.WriteLine($"по индексу [{rows}:{coloms}] расположено число {array[rows, coloms]}");
 }

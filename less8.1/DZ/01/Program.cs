@@ -64,9 +64,21 @@ void PrintArray1(int[] inArray)
     Console.WriteLine();
 }
 
-
-// if (array[i, j + 1] > array[i, j])
-//             {
-//                 newArray[j]=array[i, j+1];
-//                 array[i, j + 1] = z;
-//             }
+void newSort (int [,] array)
+{
+    for (int i = 0; i < array.GetLength(0); i++)
+    {
+        for (int j = 0; j < array.GetLength(1); j++)
+        {
+            for (int t = 0; t < array.GetLength(1); t++)
+            {
+                if (array[i, t] > array[i, j])
+                {
+                    int temp = array [i, j];
+                    array[i, j] = array [i, t];
+                    array [i, t] = temp;
+                }
+            }
+        }
+    }
+}
